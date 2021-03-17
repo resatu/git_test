@@ -1,0 +1,1 @@
+This is Resat's first git project!
